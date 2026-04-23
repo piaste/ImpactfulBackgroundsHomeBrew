@@ -10,14 +10,13 @@ if not (Directory.Exists "./Tools") then
 
 open LSLib.LS
 
-let upstreamModName = "Home Brew - Comprehensive Reworks"
-let modName = "Home Brew - Comprehensive Reworks - Lore Texts"
+let modName = "Impactful Backgrounds for Home Brew"
 
 // get mod version from `meta.lsx`
 open System.Xml.Linq
 let version =
     // intentionally unsafe, will crash if it can't read the version
-    $"./{upstreamModName}/Mods/{modName}/meta.lsx"
+    $"./{modName}/Mods/{modName}/meta.lsx"
     |> XDocument.Load    
     |> _.Descendants()
         |> Seq.find (fun n -> 
@@ -41,16 +40,14 @@ let outputPath =
 
 // actual build
 do File.Delete outputPath
-do Localization.beforeBuild()
 do Packager().CreatePackage(
         packagePath = outputPath,
-        inputPath = System.IO.Path.GetFullPath $"./{upstreamModName}/" ,
+        inputPath = System.IO.Path.GetFullPath $"./{modName}/" ,
         build = new PackageBuildData(
             Version = Enums.PackageVersion.V18,
             Compression = CompressionMethod.LZ4,
             Priority = 0uy
         )
     ).Wait()
-do Localization.afterBuild()
 
 System.Console.WriteLine $"Generated {outputPath}"
