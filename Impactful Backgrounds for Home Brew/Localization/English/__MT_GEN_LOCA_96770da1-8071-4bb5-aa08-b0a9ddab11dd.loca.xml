@@ -96,4 +96,19 @@ Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency
 	<content contentuid="LHB_IB_Urchin_Description" version="1">You gain 1.5 meters (5 feet) extra &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt;, and can cast &lt;LSTag Type="Spell" Tooltip="Shout_OneWithShadows"&gt;One with Shadows&lt;/LSTag&gt;.</content>
 	<content contentuid="LHB_IB_HauntedOne_Name" version="1">Haunted One - Revenge</content>
 	<content contentuid="LHB_IB_HauntedOne_Description" version="1">When you are reduced to 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, you immediately regain [1] and are compelled to attack the creature that killed you for 3 turns or until it dies.</content>
+
+	<content contentuid="Shout_LHB_IB_PrayerOfHealing_Name" version="1">Acolyte: Prayer of Healing</content>
+	<content contentuid="Shout_LHB_IB_PrayerOfHealing_Description" version="1">Outside of combat, heal all allies within [1].</content>
+	<content contentuid="Target_LHB_IB_Enthrall_Name" version="1">Charlatan: Enthrall</content>
+	<content contentuid="Target_LHB_IB_Enthrall_Description" version="1">Cloud a creature's better judgement, forcing them to ignore their peripheral vision.&lt;Br&gt;&lt;br&gt;This ability will not break &lt;LSTag Type="Status" Tooltip="SNEAKING"&gt;Stealth&lt;/LSTag&gt;.</content>
+	<content contentuid="Target_LHB_IB_NathairsMischief_Name" version="1">Entertainer: Mischief</content>
+	<content contentuid="Target_LHB_IB_NathairsMischief_Description" version="1">Afflict a creature with chaotic magic, causing them to experience a sudden surge of &lt;LSTag Type="Passive" Tooltip="WildMagic"&gt;Wild Magic&lt;/LSTag&gt;. Wild Magic caused by this Spell is truly random, and can be both positive or negative.</content>
+	<content contentuid="Shout_LHB_IB_GuidingCeremony_Name" version="1">Guild Artisan: Guiding Ceremony</content>
+	<content contentuid="Shout_LHB_IB_GuidingCeremony_Description" version="1">Grant yourself and all allies within [1] a +1d4 bonus to &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
+	<content contentuid="Target_LHB_IB_HeroesFeast_Name" version="1">Noble: Heroes' Feast</content>
+	<content contentuid="Target_LHB_IB_HeroesFeast_Description" version="1">Summon a container filled to the brim with &lt;LSTag Tooltip="CampSupplies"&gt;Camp Supplies&lt;/LSTag&gt;.</content>
+	<content contentuid="Target_LHB_IB_BorrowedKnowledge_Name" version="1">Sage: Borrowed Knowledge</content>
+	<content contentuid="Target_LHB_IB_BorrowedKnowledge_Description" version="1">Draw on knowledge from your studies to grant yourself or another allied creature &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SkillCheck"&gt;Skill Checks&lt;/LSTag&gt;.</content>
+	<content contentuid="Target_LHB_IB_ExpeditiousRetreat_Name" version="1">Urchin: ExpeditiousRetreat</content>
+	<content contentuid="Target_LHB_IB_ExpeditiousRetreat_Description" version="1">Grant a creature the effects of &lt;LSTag Type="Status" Tooltip="DASH"&gt;Dash&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="DISENGAGE"&gt;Disengage&lt;/LSTag&gt; for three turns. This ability will not break &lt;LSTag Type="Status" Tooltip="SNEAKING"&gt;Stealth&lt;/LSTag&gt;.</content>
 </contentList>
