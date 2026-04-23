@@ -68,7 +68,7 @@ data "DisplayName" "h6c782985gc14bg4e63g9147g6bc914cf2c10;1"
 data "Description" "LHB_IB_Sage_BackgroundDescription;1"
 data "Icon" "Passive_LHB_IB_Sage"
 data "Properties" "Highlighted"
-data "Boosts" "ProficiencyBonus(Skill,Arcana)"
+data "Boosts" "ProficiencyBonus(Skill,History)"
 
 new entry "Background_Soldier"
 type "PassiveData"

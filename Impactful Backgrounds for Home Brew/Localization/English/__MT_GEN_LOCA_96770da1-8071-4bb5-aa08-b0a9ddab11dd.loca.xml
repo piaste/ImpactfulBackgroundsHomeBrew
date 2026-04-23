@@ -2,113 +2,120 @@
 <contentList>
 	<content contentuid="LHB_IB_Acolyte" version="1">You have spent your life in service to a temple, learning sacred rites and providing sacrifices to the god or gods you worship. Serving the gods and discovering their sacred works will guide you to greatness.
 
-Your experiences have granted you Proficiency in Religion, and you know the Guidance cantrip, and can cast the Sanctuary and Shield of Faith spells once each per Long Rest without expending a spell slot.</content>
+Your experiences have granted you Proficiency in Religion, and you can recite a magical Prayer of Healing once per Short Rest.</content>
 	<content contentuid="LHB_IB_Charlatan" version="1">You’re an expert in manipulation, prone to exaggeration and more than happy to profit from it. Bending the truth and turning allies against each other will lead to greater success down the road.
 
-Your experiences have granted you Proficiency in Deception, and you know the Minor Illusion cantrip, the Disguise Self spell, and can cast the Fog Cloud spell once per Long Rest without expending a spell slot.</content>
+Your experiences have granted you Proficiency in Deception, and you can Enthrall an enemy once per Short Rest.</content>
 	<content contentuid="LHB_IB_Criminal" version="1">You have a history of breaking the law and survive by leveraging less-than-legal connections. Profiting from criminal enterprise will lead to greater opportunities in the future.
 
-Your experiences have granted you Proficiency in Sleight of Hand, and you gain a +2 bonus to Initiative Rolls.</content>
+Your experiences have granted you Proficiency in Sleight of Hand, and you gain a +1 bonus to Initiative.</content>
 	<content contentuid="LHB_IB_Entertainer" version="1">You live to sway and subvert your audience, engaging common crowds and high society alike. Preserving art and bringing joy to the hapless and downtrodden heightens your charismatic aura.
 
-Your experiences have granted you Proficiency in Performance, Proficiency with Musical Instruments, and Advantage on Saving Throws against being Charmed or Frightened.</content>
+Your experiences have granted you Proficiency in Performance, and you can cause magical Mischief once per Short Rest</content>
 	<content contentuid="LHB_IB_FolkHero" version="1">You’re the champion of the common people, challenging tyrants and monsters to protect the helpless. Saving innocents in imminent danger will make your legend grow.
 
-Your experiences have granted you Proficiency in Perception, and your hit point maximum increases by 1, and increases by 1 again every time you gain a level.</content>
+Your experiences have granted you Proficiency in Perception, and your hit point maximum increases by 1 per level.</content>
 	<content contentuid="LHB_IB_GuildArtisan" version="1">Your skill in a particular craft has earned you membership in a mercantile guild, offering privileges and protection while engaging in your art. Repairing and discovering rare crafts will bring new inspiration.
 
-Your experiences have granted you Proficiency in Medicine, and you can brew two alchemical solutions instead of one when combining extracts, if you succeed a DC 15 Medicine Check.</content>
+Your experiences have granted you Proficiency in Medicine, and you can perform a Guiding Ceremony once per Short Rest.</content>
 	<content contentuid="LHB_IB_Noble" version="1">You were raised in a family among the social elite, accustomed to power and privilege. Accumulating renown, power, and loyalty will raise your status.
 
-Your experiences have granted you Proficiency in Persuasion, and Proficiency in History, Insight, and Investigation.</content>
+Your experiences have granted you Proficiency in Persuasion, and you can call on owed favours to receive a pack of supplies once per Long Rest.</content>
 	<content contentuid="LHB_IB_Outlander" version="1">You grew up in the wilds, learning to survive far from the comforts of civilization. Surviving unusual hazards of the wild will enhance your prowess and understanding.
 
-Your experiences have granted you Proficiency in Survival, and you know the Resistance cantrip, the Speak with Animals spell, and can cast the Expeditious Retreat spell once per Long Rest without expending a spell slot.</content>
+Your experiences have granted you Proficiency in Survival, and your Movement Speed is increased by 1.5 meters.</content>
 	<content contentuid="LHB_IB_Sage" version="1">You’re curious and well-read, with an unending thirst for knowledge. Learning about rare lore of the world will inspire you to put this knowledge to greater purpose.
 
-Your experiences have granted you Proficiency in Arcana, and you know the Mage Hand cantrip, the Longstrider spell, and can cast the Armour of Agathys spell once per Long Rest without expending a spell slot.</content>
+Your experiences have granted you Proficiency in History, and you may call upon repositories of borrowed knowledge once per Short Rest.</content>
 	<content contentuid="LHB_IB_Soldier" version="1">You are trained in battlefield tactics and combat, having served in a militia, mercenary company, or officer corps. Show smart tactics and bravery on the battlefield to enhance your prowess.
 
-Your experiences have granted you Proficiency in Athletics, and the number you need to roll a Critical Hit while attacking is reduced by 1.</content>
+Your experiences have granted you Proficiency in Athletics, and your Attack Rolls are increased by +1.</content>
 	<content contentuid="LHB_IB_Urchin" version="1">After surviving a poor and bleak childhood, you know how to make the most out of very little. Using your street smarts bolsters your spirit for the journey ahead.
 
-Your experiences have granted you Proficiency in Stealth, 1.5 meters (5 feet) extra Movement Speed, and you can cast One with Shadows.</content>
+Your experiences have granted you Proficiency in Stealth, and you can rush into an Expeditious Retreat once per Short Rest.</content>
 	<content contentuid="LHB_IB_HauntedOne" version="1">A wicked moment, person, or thing that cannot be slain by sword or spell haunts your mind and flickers in your peripheral vision. You carry it wherever your adventure takes you - or perhaps it carries you.
 
 Your experiences have granted you Proficiency in Intimidation, and when you are reduced to 0 hit points, you immediately regain hit points equal to your character level and are compelled to attack the creature that killed you for 3 turns or until it dies. You can use this feature once per Long Rest.</content>
 	<content contentuid="LHB_IB_Acolyte_BackgroundDescription" version="1">You have spent your life in service to a temple, learning sacred rites and providing sacrifices to the god or gods you worship. Serving the gods and discovering their sacred works will guide you to greatness.
 
-Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; and &lt;LSTag Type="Tooltip" Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Religion"&gt;Religion&lt;/LSTag&gt;.</content>
+Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Religion"&gt;Religion&lt;/LSTag&gt;.</content>
 	<content contentuid="LHB_IB_Charlatan_BackgroundDescription" version="1">You’re an expert in manipulation, prone to exaggeration and more than happy to profit from it. Bending the truth and turning allies against each other will lead to greater success down the road.
 
-Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; and &lt;LSTag Type="Tooltip" Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Deception"&gt;Deception&lt;/LSTag&gt;.</content>
+Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Deception"&gt;Deception&lt;/LSTag&gt;.</content>
 	<content contentuid="LHB_IB_Criminal_BackgroundDescription" version="1">You have a history of breaking the law and survive by leveraging less-than-legal connections. Profiting from criminal enterprise will lead to greater opportunities in the future.
 
-Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; and &lt;LSTag Type="Tooltip" Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="SleightOfHand"&gt;Sleight of Hand&lt;/LSTag&gt;.</content>
+Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="SleightOfHand"&gt;Sleight of Hand&lt;/LSTag&gt;.</content>
 	<content contentuid="LHB_IB_Entertainer_BackgroundDescription" version="1">You live to sway and subvert your audience, engaging common crowds and high society alike. Preserving art and bringing joy to the hapless and downtrodden heightens your charismatic aura.
 
-Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; and &lt;LSTag Type="Tooltip" Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Performance"&gt;Performance&lt;/LSTag&gt;.</content>
+Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Performance"&gt;Performance&lt;/LSTag&gt;.</content>
 	<content contentuid="LHB_IB_FolkHero_BackgroundDescription" version="1">You’re the champion of the common people, challenging tyrants and monsters to protect the helpless. Saving innocents in imminent danger will make your legend grow.
 
-Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; and &lt;LSTag Type="Tooltip" Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;.</content>
+Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;.</content>
 	<content contentuid="LHB_IB_GuildArtisan_BackgroundDescription" version="1">Your skill in a particular craft has earned you membership in a mercantile guild, offering privileges and protection while engaging in your art. Repairing and discovering rare crafts will bring new inspiration.
 
-Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; and &lt;LSTag Type="Tooltip" Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Medicine"&gt;Medicine&lt;/LSTag&gt;.</content>
+Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Medicine"&gt;Medicine&lt;/LSTag&gt;.</content>
 	<content contentuid="LHB_IB_Noble_BackgroundDescription" version="1">You were raised in a family among the social elite, accustomed to power and privilege. Accumulating renown, power, and loyalty will raise your status.
 
-Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; and &lt;LSTag Type="Tooltip" Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Persuasion"&gt;Persuasion&lt;/LSTag&gt;.</content>
+Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Persuasion"&gt;Persuasion&lt;/LSTag&gt;.</content>
 	<content contentuid="LHB_IB_Outlander_BackgroundDescription" version="1">You grew up in the wilds, learning to survive far from the comforts of civilization. Surviving unusual hazards of the wild will enhance your prowess and understanding.
 
-Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; and &lt;LSTag Type="Tooltip" Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Survival"&gt;Survival&lt;/LSTag&gt;.</content>
+Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Survival"&gt;Survival&lt;/LSTag&gt;.</content>
 	<content contentuid="LHB_IB_Sage_BackgroundDescription" version="1">You’re curious and well-read, with an unending thirst for knowledge. Learning about rare lore of the world will inspire you to put this knowledge to greater purpose.
 
-Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; and &lt;LSTag Type="Tooltip" Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Arcana"&gt;Arcana&lt;/LSTag&gt;.</content>
+Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="History"&gt;History&lt;/LSTag&gt;.</content>
 	<content contentuid="LHB_IB_Soldier_BackgroundDescription" version="1">You are trained in battlefield tactics and combat, having served in a militia, mercenary company, or officer corps. Show smart tactics and bravery on the battlefield to enhance your prowess.
 
-Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; and &lt;LSTag Type="Tooltip" Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Athletics"&gt;Athletics&lt;/LSTag&gt;.</content>
+Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Athletics"&gt;Athletics&lt;/LSTag&gt;.</content>
 	<content contentuid="LHB_IB_Urchin_BackgroundDescription" version="1">After surviving a poor and bleak childhood, you know how to make the most out of very little. Using your street smarts bolsters your spirit for the journey ahead.
 
-Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; and &lt;LSTag Type="Tooltip" Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Stealth"&gt;Stealth&lt;/LSTag&gt;.</content>
+Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Stealth"&gt;Stealth&lt;/LSTag&gt;.</content>
 	<content contentuid="LHB_IB_HauntedOne_BackgroundDescription" version="1">A wicked moment, person, or thing that cannot be slain by sword or spell haunts your mind and flickers in your peripheral vision. You carry it wherever your adventure takes you - or perhaps it carries you.
 
-Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; and &lt;LSTag Type="Tooltip" Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Intimidation"&gt;Intimidation&lt;/LSTag&gt;.</content>
-	<content contentuid="LHB_IB_Acolyte_Name" version="1">Acolyte - Hexerei</content>
-	<content contentuid="LHB_IB_Acolyte_Description" version="1">You know the &lt;LSTag Type="Spell" Tooltip="Target_Guidance"&gt;Guidance&lt;/LSTag&gt; cantrip and can cast the &lt;LSTag Type="Spell" Tooltip="Target_Sanctuary"&gt;Sanctuary&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Target_ShieldOfFaith"&gt;Shield of Faith&lt;/LSTag&gt; spells once each per Long Rest without expending a &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt;.</content>
-	<content contentuid="LHB_IB_Charlatan_Name" version="1">Charlatan - Legerdemain</content>
-	<content contentuid="LHB_IB_Charlatan_Description" version="1">You know the &lt;LSTag Type="Spell" Tooltip="Target_MinorIllusion"&gt;Minor Illusion&lt;/LSTag&gt; cantrip, the &lt;LSTag Type="Spell" Tooltip="Shout_DisguiseSelf"&gt;Disguise Self&lt;/LSTag&gt; spell, and can cast the &lt;LSTag Type="Spell" Tooltip="Target_FogCloud"&gt;Fog Cloud&lt;/LSTag&gt; spell once per Long Rest without expending a &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt;.</content>
-	<content contentuid="LHB_IB_Criminal_Name" version="1">Criminal - Lookout</content>
-	<content contentuid="LHB_IB_Criminal_Description" version="1">You gain a +2 bonus to Initiative Rolls.</content>
-	<content contentuid="LHB_IB_Entertainer_Name" version="1">Entertainer - Songs of Hope</content>
-	<content contentuid="LHB_IB_Entertainer_Description" version="1">You gain &lt;LSTag Tooltip="MusicalInstrumentProficiency"&gt;Proficiency with Musical Instruments&lt;/LSTag&gt;, additionally you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against being &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;.</content>
-	<content contentuid="LHB_IB_FolkHero_Name" version="1">Folk Hero - Fortitude</content>
-	<content contentuid="LHB_IB_FolkHero_Description" version="1">Your &lt;LSTag Tooltip="HitPoints"&gt;hit point&lt;/LSTag&gt; maximum increases by 1, and increases by 1 again every time you gain a level.</content>
-	<content contentuid="LHB_IB_GuildArtisan_Name" version="1">Guild Artisan - Alchemy</content>
-	<content contentuid="LHB_IB_GuildArtisan_Description" version="1">You can brew two alchemical solutions instead of one when combining extracts, if you succeed a &lt;LSTag Tooltip="DifficultyClass"&gt;DC&lt;/LSTag&gt; 15 &lt;LSTag Tooltip="Medicine"&gt;Medicine&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt;.</content>
-	<content contentuid="LHB_IB_Noble_Name" version="1">Noble - Multi-Talented</content>
-	<content contentuid="LHB_IB_Noble_Description" version="1">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="History"&gt;History&lt;/LSTag&gt;, &lt;LSTag Tooltip="Insight"&gt;Insight&lt;/LSTag&gt;,and &lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt;.</content>
-	<content contentuid="LHB_IB_Outlander_Name" version="1">Outlander - Sortilege</content>
-	<content contentuid="LHB_IB_Outlander_Description" version="1">You know the &lt;LSTag Type="Spell" Tooltip="Target_Resistance"&gt;Resistance&lt;/LSTag&gt; cantrip, the &lt;LSTag Type="Spell" Tooltip="Shout_SpeakWithAnimals"&gt;Speak with Animals&lt;/LSTag&gt; spell, and can cast the &lt;LSTag Type="Spell" Tooltip="Shout_ExpeditiousRetreat"&gt;Expeditious Retreat&lt;/LSTag&gt; spell once per Long Rest without expending a &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt;.</content>
-	<content contentuid="LHB_IB_Sage_Name" version="1">Sage - Spellcraft</content>
-	<content contentuid="LHB_IB_Sage_Description" version="1">You know the &lt;LSTag Type="Spell" Tooltip="Target_MageHand"&gt;Mage Hand&lt;/LSTag&gt; cantrip, the &lt;LSTag Type="Spell" Tooltip="Target_Longstrider"&gt;Longstrider&lt;/LSTag&gt; spell, and can cast the &lt;LSTag Type="Spell" Tooltip="Shout_ArmorOfAgathys"&gt;Armour of Agathys&lt;/LSTag&gt; spell once per Long Rest without expending a &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt;.</content>
-	<content contentuid="LHB_IB_Soldier_Name" version="1">Soldier - Improved Critical</content>
+Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Intimidation"&gt;Intimidation&lt;/LSTag&gt;.</content>
+	<content contentuid="LHB_IB_Acolyte_Name" version="1">Background: Acolyte</content>
+	<content contentuid="LHB_IB_Acolyte_Description" version="1">You may cast a &lt;LSTag Type="Spell" Tooltip="Shout_LHB_IB_PrayerOfHealing"&gt;Prayer of Healing&lt;/LSTag&gt; once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="LHB_IB_Charlatan_Name" version="1">Background: Charlatan</content>
+	<content contentuid="LHB_IB_Charlatan_Description" version="1">You may &lt;LSTag Type="Spell" Tooltip="Target_LHB_IB_Enthrall"&gt;Enthrall&lt;/LSTag&gt; an enemy once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="LHB_IB_Criminal_Name" version="1">Background: Criminal</content>
+	<content contentuid="LHB_IB_Criminal_Description" version="1">You gain a +1 bonus to Initiative Rolls.</content>
+	<content contentuid="LHB_IB_Entertainer_Name" version="1">Background: Entertainer</content>
+	<content contentuid="LHB_IB_Entertainer_Description" version="1">You may cast a &lt;LSTag Type="Spell" Tooltip="Target_LHB_IB_NathairsMischief"&gt;Mischief&lt;/LSTag&gt; spell once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="LHB_IB_FolkHero_Name" version="1">Background: Folk Hero</content>
+	<content contentuid="LHB_IB_FolkHero_Description" version="1">Your &lt;LSTag Tooltip="HitPoints"&gt;hit point&lt;/LSTag&gt; maximum increases by 1 per level.</content>
+	<content contentuid="LHB_IB_GuildArtisan_Name" version="1">Background: Guild Artisan</content>
+	<content contentuid="LHB_IB_GuildArtisan_Description" version="1">You may perform a &lt;LSTag Type="Spell" Tooltip="Shout_LHB_IB_GuidingCeremony"&gt;Guiding Ceremony&lt;/LSTag&gt; once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="LHB_IB_Noble_Name" version="1">Background: Noble</content>
+	<content contentuid="LHB_IB_Noble_Description" version="1">You may summon a &lt;LSTag Type="Spell" Tooltip="Shout_LHB_IB_HeroesFeast"&gt;Gentleman's Feast&lt;/LSTag&gt; once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="LHB_IB_Outlander_Name" version="1">Background: Outlander</content>
+	<content contentuid="LHB_IB_Outlander_Description" version="1">You gain 1.5 meters (5 feet) extra &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt;.</content>
+	<content contentuid="LHB_IB_Sage_Name" version="1">Background: Sage</content>
+	<content contentuid="LHB_IB_Sage_Description" version="1">You may &lt;LSTag Type="Spell" Tooltip="Target_LHB_IB_BorrowedKnowledge"&gt;Recall Knowledge&lt;/LSTag&gt; once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="LHB_IB_Soldier_Name" version="1">Background: Soldier</content>
 	<content contentuid="LHB_IB_Soldier_Description" version="1">The number you need to &lt;LSTag Tooltip="AttackRoll"&gt;roll&lt;/LSTag&gt; a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; while attacking is reduced by 1.</content>
-	<content contentuid="LHB_IB_Urchin_Name" version="1">Urchin - Swift and Stealthy</content>
-	<content contentuid="LHB_IB_Urchin_Description" version="1">You gain 1.5 meters (5 feet) extra &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt;, and can cast &lt;LSTag Type="Spell" Tooltip="Shout_OneWithShadows"&gt;One with Shadows&lt;/LSTag&gt;.</content>
-	<content contentuid="LHB_IB_HauntedOne_Name" version="1">Haunted One - Revenge</content>
+	<content contentuid="LHB_IB_Urchin_Name" version="1">Background: Urchin</content>
+	<content contentuid="LHB_IB_Urchin_Description" version="1">You may start a &lt;LSTag Type="Spell" Tooltip="Shout_LHB_IB_ExpeditiousRetreat"&gt;Tactical Retreat&lt;/LSTag&gt; once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="LHB_IB_HauntedOne_Name" version="1">Background: Haunted One</content>
 	<content contentuid="LHB_IB_HauntedOne_Description" version="1">When you are reduced to 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, you immediately regain [1] and are compelled to attack the creature that killed you for 3 turns or until it dies.</content>
 
 	<content contentuid="Shout_LHB_IB_PrayerOfHealing_Name" version="1">Acolyte: Prayer of Healing</content>
 	<content contentuid="Shout_LHB_IB_PrayerOfHealing_Description" version="1">Outside of combat, heal all allies within [1].</content>
+
 	<content contentuid="Target_LHB_IB_Enthrall_Name" version="1">Charlatan: Enthrall</content>
 	<content contentuid="Target_LHB_IB_Enthrall_Description" version="1">Cloud a creature's better judgement, forcing them to ignore their peripheral vision.&lt;Br&gt;&lt;br&gt;This ability will not break &lt;LSTag Type="Status" Tooltip="SNEAKING"&gt;Stealth&lt;/LSTag&gt;.</content>
+
 	<content contentuid="Target_LHB_IB_NathairsMischief_Name" version="1">Entertainer: Mischief</content>
 	<content contentuid="Target_LHB_IB_NathairsMischief_Description" version="1">Afflict a creature with chaotic magic, causing them to experience a sudden surge of &lt;LSTag Type="Passive" Tooltip="WildMagic"&gt;Wild Magic&lt;/LSTag&gt;. Wild Magic caused by this Spell is truly random, and can be both positive or negative.</content>
+	<content contentuid="Target_LHB_IB_NathairsMischief_StatusName" version="1">Entertainer's Mischief</content>
+	
 	<content contentuid="Shout_LHB_IB_GuidingCeremony_Name" version="1">Guild Artisan: Guiding Ceremony</content>
 	<content contentuid="Shout_LHB_IB_GuidingCeremony_Description" version="1">Grant yourself and all allies within [1] a +1d4 bonus to &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-	<content contentuid="Target_LHB_IB_HeroesFeast_Name" version="1">Noble: Heroes' Feast</content>
+	<content contentuid="Target_LHB_IB_HeroesFeast_Name" version="1">Noble: Gentleman's Feast</content>
 	<content contentuid="Target_LHB_IB_HeroesFeast_Description" version="1">Summon a container filled to the brim with &lt;LSTag Tooltip="CampSupplies"&gt;Camp Supplies&lt;/LSTag&gt;.</content>
-	<content contentuid="Target_LHB_IB_BorrowedKnowledge_Name" version="1">Sage: Borrowed Knowledge</content>
+
+	<content contentuid="Target_LHB_IB_BorrowedKnowledge_Name" version="1">Sage: Recall Knowledge</content>
 	<content contentuid="Target_LHB_IB_BorrowedKnowledge_Description" version="1">Draw on knowledge from your studies to grant yourself or another allied creature &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SkillCheck"&gt;Skill Checks&lt;/LSTag&gt;.</content>
-	<content contentuid="Target_LHB_IB_ExpeditiousRetreat_Name" version="1">Urchin: ExpeditiousRetreat</content>
+	<content contentuid="Target_LHB_IB_BorrowedKnowledge_StatusName" version="1">Recalled Knowledge</content>
+	
+	<content contentuid="Target_LHB_IB_ExpeditiousRetreat_Name" version="1">Urchin: Tactical Retreat</content>
 	<content contentuid="Target_LHB_IB_ExpeditiousRetreat_Description" version="1">Grant a creature the effects of &lt;LSTag Type="Status" Tooltip="DASH"&gt;Dash&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="DISENGAGE"&gt;Disengage&lt;/LSTag&gt; for three turns. This ability will not break &lt;LSTag Type="Status" Tooltip="SNEAKING"&gt;Stealth&lt;/LSTag&gt;.</content>
 </contentList>
