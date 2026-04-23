@@ -2,40 +2,40 @@
 <contentList>
 	<content contentuid="LHB_IB_Acolyte" version="1">You have spent your life in service to a temple, learning sacred rites and providing sacrifices to the god or gods you worship. Serving the gods and discovering their sacred works will guide you to greatness.
 
-Your experiences have granted you Proficiency and Expertise in Religion, and you know the Guidance cantrip, and can cast the Sanctuary and Shield of Faith spells once each per Long Rest without expending a spell slot.</content>
+Your experiences have granted you Proficiency in Religion, and you know the Guidance cantrip, and can cast the Sanctuary and Shield of Faith spells once each per Long Rest without expending a spell slot.</content>
 	<content contentuid="LHB_IB_Charlatan" version="1">You’re an expert in manipulation, prone to exaggeration and more than happy to profit from it. Bending the truth and turning allies against each other will lead to greater success down the road.
 
-Your experiences have granted you Proficiency and Expertise in Deception, and you know the Minor Illusion cantrip, the Disguise Self spell, and can cast the Fog Cloud spell once per Long Rest without expending a spell slot.</content>
+Your experiences have granted you Proficiency in Deception, and you know the Minor Illusion cantrip, the Disguise Self spell, and can cast the Fog Cloud spell once per Long Rest without expending a spell slot.</content>
 	<content contentuid="LHB_IB_Criminal" version="1">You have a history of breaking the law and survive by leveraging less-than-legal connections. Profiting from criminal enterprise will lead to greater opportunities in the future.
 
-Your experiences have granted you Proficiency and Expertise in Sleight of Hand, and you gain a +2 bonus to Initiative Rolls.</content>
+Your experiences have granted you Proficiency in Sleight of Hand, and you gain a +2 bonus to Initiative Rolls.</content>
 	<content contentuid="LHB_IB_Entertainer" version="1">You live to sway and subvert your audience, engaging common crowds and high society alike. Preserving art and bringing joy to the hapless and downtrodden heightens your charismatic aura.
 
-Your experiences have granted you Proficiency and Expertise in Performance, Proficiency with Musical Instruments, and Advantage on Saving Throws against being Charmed or Frightened.</content>
+Your experiences have granted you Proficiency in Performance, Proficiency with Musical Instruments, and Advantage on Saving Throws against being Charmed or Frightened.</content>
 	<content contentuid="LHB_IB_FolkHero" version="1">You’re the champion of the common people, challenging tyrants and monsters to protect the helpless. Saving innocents in imminent danger will make your legend grow.
 
-Your experiences have granted you Proficiency and Expertise in Perception, and your hit point maximum increases by 1, and increases by 1 again every time you gain a level.</content>
+Your experiences have granted you Proficiency in Perception, and your hit point maximum increases by 1, and increases by 1 again every time you gain a level.</content>
 	<content contentuid="LHB_IB_GuildArtisan" version="1">Your skill in a particular craft has earned you membership in a mercantile guild, offering privileges and protection while engaging in your art. Repairing and discovering rare crafts will bring new inspiration.
 
-Your experiences have granted you Proficiency and Expertise in Medicine, and you can brew two alchemical solutions instead of one when combining extracts, if you succeed a DC 15 Medicine Check.</content>
+Your experiences have granted you Proficiency in Medicine, and you can brew two alchemical solutions instead of one when combining extracts, if you succeed a DC 15 Medicine Check.</content>
 	<content contentuid="LHB_IB_Noble" version="1">You were raised in a family among the social elite, accustomed to power and privilege. Accumulating renown, power, and loyalty will raise your status.
 
-Your experiences have granted you Proficiency and Expertise in Persuasion, and Proficiency in History, Insight, and Investigation.</content>
+Your experiences have granted you Proficiency in Persuasion, and Proficiency in History, Insight, and Investigation.</content>
 	<content contentuid="LHB_IB_Outlander" version="1">You grew up in the wilds, learning to survive far from the comforts of civilization. Surviving unusual hazards of the wild will enhance your prowess and understanding.
 
-Your experiences have granted you Proficiency and Expertise in Survival, and you know the Resistance cantrip, the Speak with Animals spell, and can cast the Expeditious Retreat spell once per Long Rest without expending a spell slot.</content>
+Your experiences have granted you Proficiency in Survival, and you know the Resistance cantrip, the Speak with Animals spell, and can cast the Expeditious Retreat spell once per Long Rest without expending a spell slot.</content>
 	<content contentuid="LHB_IB_Sage" version="1">You’re curious and well-read, with an unending thirst for knowledge. Learning about rare lore of the world will inspire you to put this knowledge to greater purpose.
 
-Your experiences have granted you Proficiency and Expertise in Arcana, and you know the Mage Hand cantrip, the Longstrider spell, and can cast the Armour of Agathys spell once per Long Rest without expending a spell slot.</content>
+Your experiences have granted you Proficiency in Arcana, and you know the Mage Hand cantrip, the Longstrider spell, and can cast the Armour of Agathys spell once per Long Rest without expending a spell slot.</content>
 	<content contentuid="LHB_IB_Soldier" version="1">You are trained in battlefield tactics and combat, having served in a militia, mercenary company, or officer corps. Show smart tactics and bravery on the battlefield to enhance your prowess.
 
-Your experiences have granted you Proficiency and Expertise in Athletics, and the number you need to roll a Critical Hit while attacking is reduced by 1.</content>
+Your experiences have granted you Proficiency in Athletics, and the number you need to roll a Critical Hit while attacking is reduced by 1.</content>
 	<content contentuid="LHB_IB_Urchin" version="1">After surviving a poor and bleak childhood, you know how to make the most out of very little. Using your street smarts bolsters your spirit for the journey ahead.
 
-Your experiences have granted you Proficiency and Expertise in Stealth, 1.5 meters (5 feet) extra Movement Speed, and you can cast One with Shadows.</content>
+Your experiences have granted you Proficiency in Stealth, 1.5 meters (5 feet) extra Movement Speed, and you can cast One with Shadows.</content>
 	<content contentuid="LHB_IB_HauntedOne" version="1">A wicked moment, person, or thing that cannot be slain by sword or spell haunts your mind and flickers in your peripheral vision. You carry it wherever your adventure takes you - or perhaps it carries you.
 
-Your experiences have granted you Proficiency and Expertise in Intimidation, and when you are reduced to 0 hit points, you immediately regain hit points equal to your character level and are compelled to attack the creature that killed you for 3 turns or until it dies. You can use this feature once per Long Rest.</content>
+Your experiences have granted you Proficiency in Intimidation, and when you are reduced to 0 hit points, you immediately regain hit points equal to your character level and are compelled to attack the creature that killed you for 3 turns or until it dies. You can use this feature once per Long Rest.</content>
 	<content contentuid="LHB_IB_Acolyte_BackgroundDescription" version="1">You have spent your life in service to a temple, learning sacred rites and providing sacrifices to the god or gods you worship. Serving the gods and discovering their sacred works will guide you to greatness.
 
 Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; and &lt;LSTag Type="Tooltip" Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in &lt;LSTag Tooltip="Religion"&gt;Religion&lt;/LSTag&gt;.</content>
