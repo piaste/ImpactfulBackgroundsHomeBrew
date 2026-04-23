@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ProgressionDescriptions">
+    <node id="root">
+      <children>
+        <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="LHB_IB_Entertainer_Description" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="LHB_IB_Entertainer_Name" version="1" />
+                    <attribute id="ExactMatch" type="FixedString" value="Tag(CHARMED_ADV);Tag(FRIGHTENED_ADV);Proficiency(MusicalInstrument)" />
+                    <attribute id="Hidden" type="bool" value="true" />
+                    <attribute id="UUID" type="guid" value="46637236-a894-4e3c-9db5-1dd2192f6a74" />
+                </node>
+        <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="LHB_IB_FolkHero_Description" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="LHB_IB_FolkHero_Name" version="1" />
+                    <attribute id="ExactMatch" type="FixedString" value="IncreaseMaxHP(Level)" />
+                    <attribute id="Hidden" type="bool" value="true" />
+                    <attribute id="UUID" type="guid" value="ff86a8f3-2817-4cda-8518-053492ea2dd9" />
+                </node>
+        <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="LHB_IB_GuildArtisan_Description" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="LHB_IB_GuildArtisan_Name" version="1" />
+                    <attribute id="ExactMatch" type="FixedString" value="Tag(DOUBLE_ALCHEMY)" />
+                    <attribute id="Hidden" type="bool" value="true" />
+                    <attribute id="UUID" type="guid" value="2f62c88b-cd4c-490d-9e83-577c1498455e" />
+                </node>
+        <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="LHB_IB_Urchin_Description" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="LHB_IB_Urchin_Name" version="1" />
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(Movement,1.5,0);UnlockSpell(Shout_OneWithShadows)" />
+                    <attribute id="Hidden" type="bool" value="true" />
+                    <attribute id="UUID" type="guid" value="54a097aa-035f-404c-97d6-d1555982aa26" />
+                </node>
+        <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hda062ae6g33a4g408fgac35gba055bc72cdb" version="2" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="hafe95d21g2fb1g44c4g817agffd28dd019f7" version="2" />
+                    <attribute id="ExactMatch" type="FixedString" value="Proficiency(MusicalInstrument)" />
+                    <attribute id="Hidden" type="bool" value="true" />
+                    <attribute id="UUID" type="guid" value="0158a09c-eae5-4d2a-892c-6a36cdb5f0fa" />
+                </node>
+        <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h5f4c50a5g6942g406egbbdcg12560ffb8576" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h61f40429g938bg46bbga21cg1c5e40f13046" version="1" />
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(Movement,1.5,0)" />
+                    <attribute id="ProgressionTableId" type="guid" value="c0210455-03b5-437c-9d80-3cc4e3c61a9f" />
+                    <attribute id="UUID" type="guid" value="649103f3-a905-4457-959f-04a134a665a0" />
+                </node>
+        <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h5f4c50a5g6942g406egbbdcg12560ffb8576" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h61f40429g938bg46bbga21cg1c5e40f13046" version="1" />
+                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(Movement,1.5,0)" />
+                    <attribute id="ProgressionTableId" type="guid" value="685d3b16-1f7f-49b3-906d-d7726276926b" />
+                    <attribute id="UUID" type="guid" value="58cd80a2-39ad-42fc-8620-15fb211c94a8" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>
