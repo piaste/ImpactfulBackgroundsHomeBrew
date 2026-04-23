@@ -51,3 +51,7 @@ do Packager().CreatePackage(
     ).Wait()
 
 System.Console.WriteLine $"Generated {outputPath}"
+
+// helper
+let encodeVersion major minor revision build = 
+    printfn "%A" <| PackedVersion(Major = uint32 major, Minor = uint32 minor, Revision = uint32 revision, Build = uint32 build).ToVersion64()
