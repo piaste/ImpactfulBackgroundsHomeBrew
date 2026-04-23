@@ -1,0 +1,7 @@
+/.vscode
+
+.fake
+*.loca
+*.pak
+output/
+Tools/
