@@ -93,7 +93,7 @@ Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency
 	<content contentuid="LHB_IB_Soldier_Name" version="1">Background: Soldier</content>
 	<content contentuid="LHB_IB_Soldier_Description" version="1">The number you need to &lt;LSTag Tooltip="AttackRoll"&gt;roll&lt;/LSTag&gt; a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; while attacking is reduced by 1.</content>
 	<content contentuid="LHB_IB_Urchin_Name" version="1">Background: Urchin</content>
-	<content contentuid="LHB_IB_Urchin_Description" version="1">You may start a &lt;LSTag Type="Spell" Tooltip="Shout_LHB_IB_ExpeditiousRetreat"&gt;Tactical Retreat&lt;/LSTag&gt; once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
+	<content contentuid="LHB_IB_Urchin_Description" version="1">You may start a &lt;LSTag Type="Spell" Tooltip="Shout_LHB_IB_ExpeditiousRetreat"&gt;Expeditious Retreat&lt;/LSTag&gt; once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
 	<content contentuid="LHB_IB_HauntedOne_Name" version="1">Background: Haunted One</content>
 	<content contentuid="LHB_IB_HauntedOne_Description" version="1">When you are reduced to 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, you immediately regain [1] and are compelled to attack the creature that killed you for 3 turns or until it dies.</content>
 
@@ -116,6 +116,6 @@ Your experiences have granted you &lt;LSTag Tooltip="Proficiency"&gt;Proficiency
 	<content contentuid="Target_LHB_IB_BorrowedKnowledge_Description" version="1">Draw on knowledge from your studies to grant yourself or another allied creature &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SkillCheck"&gt;Skill Checks&lt;/LSTag&gt;.</content>
 	<content contentuid="Target_LHB_IB_BorrowedKnowledge_StatusName" version="1">Recalled Knowledge</content>
 	
-	<content contentuid="Target_LHB_IB_ExpeditiousRetreat_Name" version="1">Urchin: Tactical Retreat</content>
+	<content contentuid="Target_LHB_IB_ExpeditiousRetreat_Name" version="1">Urchin: Expeditious Retreat</content>
 	<content contentuid="Target_LHB_IB_ExpeditiousRetreat_Description" version="1">Grant a creature the effects of &lt;LSTag Type="Status" Tooltip="DASH"&gt;Dash&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="DISENGAGE"&gt;Disengage&lt;/LSTag&gt; for three turns. This ability will not break &lt;LSTag Type="Status" Tooltip="SNEAKING"&gt;Stealth&lt;/LSTag&gt;.</content>
 </contentList>
