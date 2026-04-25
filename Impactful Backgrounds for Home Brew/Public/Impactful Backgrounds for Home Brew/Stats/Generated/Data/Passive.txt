@@ -36,7 +36,7 @@ data "DisplayName" "h11109d18g4031g4d21g9fdeg5fcec0685b4c;1"
 data "Description" "LHB_IB_FolkHero_BackgroundDescription;1"
 data "Icon" "Passive_LHB_IB_FolkHero"
 data "Properties" "IsHidden"
-data "Boosts" "ProficiencyBonus(Skill,Perception),IncreaseMaxHP(Level)"
+data "Boosts" "ProficiencyBonus(Skill,Acrobatics),IncreaseMaxHP(Level)"
 
 new entry "Background_GuildArtisan"
 type "PassiveData"
