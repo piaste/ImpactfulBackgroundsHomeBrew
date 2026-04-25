@@ -36,7 +36,7 @@ let version =
 let outputPath = 
     Directory.CreateDirectory "./output"
     |> _.FullName
-    |> fun path -> $"{path}/{modName}-{version}.pak"
+    |> fun path -> $"{path}/{modName.Replace(' ','.')}-{version}.pak"
 
 // actual build
 do File.Delete outputPath
