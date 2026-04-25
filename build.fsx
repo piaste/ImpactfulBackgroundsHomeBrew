@@ -40,6 +40,14 @@ let outputPath =
 
 // actual build
 do File.Delete outputPath
+let localizationXmlPath = 
+    "./Impactful Backgrounds for Home Brew/Localization/English/ImpactfulBackgroundsForHomeBrew.xml"
+    |> Path.GetFullPath
+do LocaUtils.Save(
+            resource = LocaUtils.Load localizationXmlPath,
+            outputPath = localizationXmlPath.Replace(".xml", ".loca"),
+            format = LocaFormat.Loca
+        )
 do Packager().CreatePackage(
         packagePath = outputPath,
         inputPath = System.IO.Path.GetFullPath $"./{modName}/" ,
